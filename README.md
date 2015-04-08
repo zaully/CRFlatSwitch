@@ -3,7 +3,13 @@ An objective C implementation for AIFlatSwitch
 
 ##Preview
 <p><a href="url"><img src="https://s3.amazonaws.com/f.cl.ly/items/1p0w3B0E3m2I2k3e0z1Q/onoff.gif" align="left" height="150" width="200" ></a></p>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ##Requirements
 - iOS 7.1+
 - Xcode 6.1
